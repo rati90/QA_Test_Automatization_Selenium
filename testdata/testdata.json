@@ -1,0 +1,12 @@
+{
+  "testcase3": {
+    "Games": "Dota 2",
+    "Hero": "Lifestealer",
+    "Rarity": "Immortal",
+    "Search": "golden"
+
+  },
+  "checkbox": [
+    "Action", "LAN Co-op", "SteamOS + Linux"]
+
+}
